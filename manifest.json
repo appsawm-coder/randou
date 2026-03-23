@@ -1,0 +1,17 @@
+{
+  "name": "r·andou Drive-Through",
+  "short_name": "randou",
+  "description": "نظام طلبات درايف ثرو لشاحنة القهوة",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#f0f4ee",
+  "theme_color": "#2d3540",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' rx='32' fill='%23f0f4ee'/><text x='96' y='120' font-size='80' text-anchor='middle' font-family='serif' fill='%232d3540'>r</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
